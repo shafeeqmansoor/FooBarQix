@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interact.FooBarQix", "Interact.FooBarQix\Interact.FooBarQix.csproj", "{91B31A03-E132-4546-8A6D-6591C3867121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interact.FooBarQix.Tests", "Interact.FooBarQix.Tests\Interact.FooBarQix.Tests.csproj", "{D976AD9D-5594-4F0B-876D-4E9E6962FC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B31A03-E132-4546-8A6D-6591C3867121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B31A03-E132-4546-8A6D-6591C3867121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B31A03-E132-4546-8A6D-6591C3867121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B31A03-E132-4546-8A6D-6591C3867121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D976AD9D-5594-4F0B-876D-4E9E6962FC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D976AD9D-5594-4F0B-876D-4E9E6962FC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D976AD9D-5594-4F0B-876D-4E9E6962FC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D976AD9D-5594-4F0B-876D-4E9E6962FC66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812D9F57-AEF2-4C41-AD14-76F55FED989E}
+	EndGlobalSection
+EndGlobal
